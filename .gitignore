@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# --- Secrets et config locale ---
+.env
+*.local
+
+# --- Données (jamais versionnées, régénérées par les générateurs synthétiques) ---
+data/
+!data/.gitkeep
+
+# --- Docker ---
+*.log
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
