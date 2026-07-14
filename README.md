@@ -10,18 +10,7 @@ Le projet suit un fonctionnement Agile Scrum complet (Product Vision, Backlog, S
 
 ## Documentation
 
-| Document | Contenu |
-|---|---|
-| [`docs/00-analyse-marche-besoins.md`](docs/00-analyse-marche-besoins.md) | Analyse des problématiques Data des grands cabinets d'audit/conseil |
-| [`docs/01-selection-projet.md`](docs/01-selection-projet.md) | 3 propositions de projet et sélection argumentée |
-| [`docs/02-entreprise-fictive-veridian.md`](docs/02-entreprise-fictive-veridian.md) | Présentation de Véridien & Associés |
-| [`docs/03-organisation-agile.md`](docs/03-organisation-agile.md) | Pôle, entités, équipes, rôles, parties prenantes |
-| [`docs/04-architecture-globale.md`](docs/04-architecture-globale.md) | Architecture fonctionnelle, technique, data, flux |
-| [`docs/adr/`](docs/adr/) | Architecture Decision Records |
-| [`docs/05-plan-de-travail.md`](docs/05-plan-de-travail.md) | Plan de travail complet, Epics, Sprints, DoD |
-| [`docs/06-guide-environnement-local.md`](docs/06-guide-environnement-local.md) | Configuration du poste de développement (WSL2, profils Docker) |
-| [`docs/07-dossier-synthese-client-projet-technologies.md`](docs/07-dossier-synthese-client-projet-technologies.md) | Dossier de synthèse : client, projet, et choix technologiques comparés à leurs alternatives |
-| [`docs/prompt-nouvelle-conversation.md`](docs/prompt-nouvelle-conversation.md) | Prompt à réutiliser pour ouvrir la conversation de chaque Sprint |
+La documentation complète du projet (analyse de marché, sélection du projet, entreprise fictive, organisation Agile, architecture, ADR, plan de travail, guide d'environnement local, dossier de synthèse technologique) est maintenue en local, hors de ce dépôt Git, et sert de journal de travail au fil des Sprints.
 
 ## Statut
 
