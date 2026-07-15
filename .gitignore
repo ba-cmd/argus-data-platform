@@ -13,7 +13,7 @@ venv/
 *.local
 
 # --- Données (jamais versionnées, régénérées par les générateurs synthétiques) ---
-data/
+data/*
 !data/.gitkeep
 
 # --- Docker ---
@@ -25,3 +25,6 @@ data/
 .DS_Store
 Thumbs.db
 
+# --- Documentation (non versionnée, conservée localement uniquement) ---
+docs/
+pdf/
