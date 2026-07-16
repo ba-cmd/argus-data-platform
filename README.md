@@ -15,7 +15,7 @@ La documentation complète du projet (analyse de marché, sélection du projet, 
 
 ## Statut
 
-Phase actuelle : **cadrage (avant Sprint 0)**. Le plan de travail est en attente de validation avant démarrage du développement.
+Phase actuelle : **Sprint 0 terminé**, Sprint 1 (Ingestion Batch ERP, Epic E1 + amorce E6) prêt à démarrer. Environnement de développement opérationnel : dépôt structuré, WSL2/Docker Desktop configurés, Docker Compose (profil `core` — PostgreSQL + MinIO), CI GitHub Actions minimale.
 ## Contribution
 
 Convention de branches : `main` est la branche protégée (jamais de commit direct dessus une fois la CI en place) ; chaque ticket est développé sur une branche `feature/argus-N-description-courte`, fusionnée via Pull Request après revue.
