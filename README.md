@@ -1,4 +1,5 @@
 # Argus — Plateforme d'Intelligence d'Audit Continu
+![CI](https://github.com/ba-cmd/argus-data-platform/actions/workflows/ci.yml/badge.svg)
 
 Projet de Data Engineering réaliste, construit dans le cadre d'un apprentissage encadré simulant le fonctionnement d'un grand cabinet international d'audit et de conseil.
 
